@@ -6,4 +6,4 @@ metadata:
   name: secret-sant
 type: Opaque
 data:
-  username: SkZEVC00NFdRQVQtVldKSw==
+  amazon-gift-voucher: SkZEVC00NFdRQVQtVldKSw==
