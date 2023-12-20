@@ -3,7 +3,7 @@
 apiVersion: v1
 kind: Secret
 metadata:
-  name: secret-sant
+  name: secret-santa
 type: Opaque
 data:
   amazon-gift-voucher: SkZEVC00NFdRQVQtVldKSw==
